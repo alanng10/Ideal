@@ -47,3 +47,5 @@ Ideal has park kind arch benefit.
 Ideal has park kind arch marry.
 
 Ideal has park kind arch land.
+
+Ideal has major.
