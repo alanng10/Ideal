@@ -48,4 +48,8 @@ Ideal has park kind arch marry.
 
 Ideal has park kind arch land.
 
+Ideal has park mark.
+
+Ideal has park cross.
+
 Ideal has major.
